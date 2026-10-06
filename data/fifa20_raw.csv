@@ -1,0 +1,249 @@
+short_name,age,height_cm,weight_kg,nationality,league_name,overall,value_eur,skill_moves,team_position,pace,shooting,passing,dribbling,defending,physic
+L. Messi,32,170,72,Argentina,Spain Primera Division,94,95500000,4,RW,87,92,92,96,39,66
+Cristiano Ronaldo,34,187,83,Portugal,Italian Serie A,93,58500000,5,LW,90,93,82,89,35,78
+Neymar Jr,27,175,68,Brazil,French Ligue 1,92,105500000,5,CAM,91,85,87,95,32,58
+E. Hazard,28,175,74,Belgium,Spain Primera Division,91,90000000,4,LW,91,83,86,94,35,66
+K. De Bruyne,28,181,70,Belgium,English Premier League,91,90000000,4,RCM,76,86,92,86,61,78
+V. van Dijk,27,193,92,Netherlands,English Premier League,90,78000000,2,LCB,77,60,70,71,90,86
+L. Modrić,33,172,66,Croatia,Spain Primera Division,90,45000000,4,RCM,74,76,89,89,72,66
+M. Salah,27,175,71,Egypt,English Premier League,90,80500000,4,RW,93,86,81,89,45,74
+K. Mbappé,20,178,73,France,French Ligue 1,89,93500000,5,RW,96,84,78,90,39,75
+K. Koulibaly,28,187,89,Senegal,Italian Serie A,89,67500000,2,LCB,71,28,54,67,89,87
+H. Kane,25,188,89,England,English Premier League,89,83000000,3,ST,70,91,79,81,47,83
+N. Kanté,28,168,72,France,English Premier League,89,66000000,2,RCM,78,65,77,81,87,83
+G. Chiellini,34,187,85,Italy,Italian Serie A,89,24500000,2,LCB,68,46,58,60,90,82
+S. Agüero,31,173,70,Argentina,English Premier League,89,60000000,4,ST,80,90,77,88,33,74
+Sergio Ramos,33,184,82,Spain,Spain Primera Division,89,31500000,3,LCB,72,68,75,73,87,85
+L. Suárez,32,182,86,Uruguay,Spain Primera Division,89,53000000,3,ST,73,89,80,84,51,84
+R. Lewandowski,30,184,80,Poland,German 1. Bundesliga,89,64500000,4,ST,77,87,74,85,41,82
+Sergio Busquets,30,189,76,Spain,Spain Primera Division,89,55000000,3,CDM,42,62,80,80,85,80
+A. Griezmann,28,176,73,France,Spain Primera Division,89,69000000,4,LW,81,86,84,89,57,72
+P. Dybala,25,177,75,Argentina,Italian Serie A,88,76500000,4,RW,83,82,84,90,43,64
+P. Pogba,26,191,84,France,English Premier League,88,72500000,5,LDM,74,81,86,85,66,86
+R. Sterling,24,170,69,England,English Premier League,88,73000000,4,LW,93,79,78,89,45,57
+C. Eriksen,27,181,76,Denmark,English Premier League,88,68000000,4,RM,73,81,90,84,53,63
+Piqué,32,194,85,Spain,Spain Primera Division,88,38000000,2,RCB,56,61,72,68,88,80
+David Silva,33,173,67,Spain,English Premier League,88,36000000,4,LCM,65,74,88,89,52,57
+E. Cavani,32,185,77,Uruguay,French Ligue 1,88,47000000,3,ST,75,86,72,79,55,83
+D. Godín,33,187,78,Uruguay,Italian Serie A,88,28000000,2,RCB,60,48,64,61,89,83
+T. Kroos,29,183,76,Germany,Spain Primera Division,88,57000000,3,LCM,45,80,90,81,70,69
+M. Reus,30,180,71,Germany,German 1. Bundesliga,88,56000000,4,CAM,85,88,84,87,45,66
+P. Aubameyang,30,187,80,Gabon,English Premier League,88,57000000,4,LM,94,85,75,80,37,69
+S. Mané,27,175,69,Senegal,English Premier League,88,62000000,4,LW,94,83,77,89,44,74
+A. Laporte,25,189,85,France,English Premier League,87,56500000,2,LCB,64,50,71,68,88,82
+Bernardo Silva,24,173,64,Portugal,English Premier League,87,64000000,4,RW,81,76,83,92,51,67
+Casemiro,27,185,84,Brazil,Spain Primera Division,87,53500000,2,CDM,62,72,75,72,85,89
+H. Son,26,183,78,Korea Republic,English Premier League,87,60000000,4,LM,88,86,80,87,42,68
+Fernandinho,34,179,67,Brazil,English Premier League,87,19500000,3,CDM,66,74,79,78,84,79
+Thiago Silva,34,183,82,Brazil,French Ligue 1,87,18500000,2,LCB,62,54,72,72,87,78
+K. Benzema,31,185,81,France,Spain Primera Division,87,45000000,4,CF,76,82,80,86,39,77
+J. Vertonghen,32,189,86,Belgium,English Premier League,87,32500000,3,LCB,63,63,74,72,87,79
+D. Mertens,32,169,61,Belgium,Italian Serie A,87,40000000,4,SUB,88,83,80,91,35,53
+M. Hummels,30,191,94,Germany,German 1. Bundesliga,87,41000000,3,LCB,51,58,76,72,89,76
+T. Alderweireld,30,186,81,Belgium,English Premier League,87,41000000,2,RCB,64,55,72,66,88,79
+Jordi Alba,30,170,68,Spain,Spain Primera Division,87,40000000,3,LB,90,69,81,83,79,73
+Thiago,28,174,70,Spain,German 1. Bundesliga,87,50000000,5,CDM,69,74,85,90,69,63
+L. Insigne,28,163,59,Italy,Italian Serie A,87,52000000,4,LS,89,79,85,91,35,47
+L. Sané,23,183,75,Germany,English Premier League,86,61000000,4,SUB,95,81,79,86,38,70
+Marquinhos,25,183,75,Brazil,French Ligue 1,86,51500000,3,RCB,74,41,73,70,86,77
+M. Škriniar,24,187,80,Slovakia,Italian Serie A,86,52000000,2,LCB,69,41,59,66,87,82
+M. Verratti,26,165,60,Italy,French Ligue 1,86,54500000,4,RCM,65,60,84,90,79,66
+S. Umtiti,25,182,75,France,Spain Primera Division,86,50000000,2,SUB,69,63,69,69,86,82
+J. Kimmich,24,176,73,Germany,German 1. Bundesliga,86,48000000,3,RB,72,69,86,84,79,78
+Isco,27,176,79,Spain,Spain Primera Division,86,51000000,4,SUB,71,77,83,91,59,60
+Roberto Firmino,27,181,76,Brazil,English Premier League,86,52000000,4,CF,77,82,80,87,61,78
+I. Rakitić,31,184,78,Croatia,Spain Primera Division,86,38000000,3,RCM,62,81,86,81,74,70
+M. Pjanić,29,178,72,Bosnia Herzegovina,Italian Serie A,86,42500000,3,CDM,68,68,87,85,75,67
+A. Di María,31,180,69,Argentina,French Ligue 1,86,39000000,5,LW,84,79,84,87,48,68
+L. Bonucci,32,190,85,Italy,Italian Serie A,86,28500000,2,RCB,58,58,69,70,87,79
+Coutinho,27,172,68,Brazil,German 1. Bundesliga,86,46500000,5,LCM,79,80,84,90,52,64
+Parejo,30,182,74,Spain,Spain Primera Division,86,41000000,3,RCM,41,80,88,79,70,69
+T. Müller,29,186,75,Germany,German 1. Bundesliga,86,43500000,3,SUB,72,83,79,78,55,71
+C. Immobile,29,185,85,Italy,Italian Serie A,86,44500000,3,ST,80,85,63,81,39,76
+A. Lacazette,28,175,73,France,English Premier League,86,46000000,4,ST,82,85,75,86,40,74
+M. de Ligt,19,189,89,Netherlands,Italian Serie A,85,50000000,2,SUB,67,58,66,68,83,84
+F. de Jong,22,180,74,Netherlands,Spain Primera Division,85,52000000,4,LCM,79,64,84,87,76,76
+R. Varane,26,191,81,France,Spain Primera Division,85,45000000,2,RCB,83,45,62,63,85,80
+N. Süle,23,195,97,Germany,German 1. Bundesliga,85,46500000,2,RCB,72,42,55,50,86,82
+S. Milinković-Savić,24,191,76,Serbia,Italian Serie A,85,50500000,4,RDM,67,79,80,83,77,84
+Rodri,23,191,82,Spain,English Premier League,85,47000000,3,SUB,67,68,77,77,82,80
+Saúl,24,184,77,Spain,Spain Primera Division,85,49500000,3,LCM,70,78,79,81,78,78
+Fabinho,25,188,78,Brazil,English Premier League,85,45000000,3,CDM,68,69,78,77,85,83
+A. Robertson,25,178,64,Scotland,English Premier League,85,43500000,3,LB,85,62,77,79,80,75
+J. Giménez,24,185,80,Uruguay,Spain Primera Division,85,45000000,2,RCB,69,45,52,54,86,82
+C. Lenglet,24,186,81,France,Spain Primera Division,85,45000000,2,LCB,75,45,68,65,86,80
+Bruno Fernandes,24,179,69,Portugal,Portuguese Liga ZON SAGRES,85,49000000,4,RCM,77,83,87,85,65,74
+R. Lukaku,26,190,94,Belgium,Italian Serie A,85,46000000,3,LS,75,82,73,72,35,84
+K. Manolas,28,189,83,Greece,Italian Serie A,85,37500000,2,RCB,82,25,42,60,86,81
+D. Alaba,27,180,78,Austria,German 1. Bundesliga,85,38000000,3,LB,83,73,81,80,80,76
+M. Icardi,26,181,75,Argentina,Italian Serie A,85,46000000,3,RES,75,84,61,77,36,69
+Carvajal,27,173,73,Spain,Spain Primera Division,85,38000000,3,RB,81,47,78,81,82,80
+H. Ziyech,26,181,65,Morocco,Holland Eredivisie,85,45000000,4,RAM,80,75,86,83,50,66
+Z. Ibrahimović,37,195,95,Sweden,USA Major League Soccer,85,11000000,5,ST,56,88,77,77,34,78
+A. Gómez,31,165,68,Argentina,Italian Serie A,85,34000000,4,CAM,89,78,81,86,39,55
+G. Higuaín,31,186,89,Argentina,Italian Serie A,85,34500000,3,SUB,63,85,71,80,31,71
+B. Matuidi,32,180,75,France,Italian Serie A,85,25000000,2,SUB,75,66,76,78,83,81
+G. Bale,29,185,82,Wales,Spain Primera Division,85,37500000,4,SUB,91,87,82,82,58,76
+Marcelo,31,174,75,Brazil,Spain Primera Division,85,28000000,5,LB,81,74,83,89,77,79
+A. Witsel,30,186,81,Belgium,German 1. Bundesliga,85,31500000,4,LDM,73,74,80,79,83,81
+Alex Sandro,28,180,80,Brazil,Italian Serie A,85,33000000,3,LB,83,65,77,80,82,82
+Iago Aspas,31,176,67,Spain,Spain Primera Division,85,34500000,3,RS,78,84,77,85,35,64
+Koke,27,176,74,Spain,Spain Primera Division,85,40500000,3,RM,68,75,86,82,74,79
+J. Rodríguez,27,180,75,Colombia,Spain Primera Division,85,40500000,4,SUB,55,86,87,86,50,63
+Allan,28,175,74,Brazil,Italian Serie A,85,38000000,4,RCM,75,71,78,84,85,84
+J. Sancho,19,180,76,England,German 1. Bundesliga,84,44500000,5,RM,88,72,77,90,36,60
+K. Havertz,20,188,83,Germany,German 1. Bundesliga,84,46000000,4,RF,84,78,79,84,44,65
+O. Dembélé,22,178,67,France,Spain Primera Division,84,42500000,5,SUB,93,79,80,87,36,57
+João Cancelo,25,182,74,Portugal,English Premier League,84,36500000,4,SUB,90,65,80,84,78,71
+D. Alli,23,188,80,England,English Premier League,84,41500000,4,CAM,72,81,79,82,71,79
+L. Hernández,23,182,76,France,German 1. Bundesliga,84,37500000,2,LCB,81,54,70,71,83,82
+Arthur,22,171,73,Brazil,Spain Primera Division,84,41000000,4,SUB,69,71,81,86,73,70
+M. Depay,25,176,78,Netherlands,French Ligue 1,84,40500000,5,LW,87,80,81,84,32,78
+L. Goretzka,24,189,79,Germany,German 1. Bundesliga,84,40000000,3,SUB,81,77,80,81,75,79
+J. Brandt,23,185,83,Germany,German 1. Bundesliga,84,40500000,4,SUB,82,78,81,85,40,68
+K. Coman,23,179,75,France,German 1. Bundesliga,84,40500000,4,LW,92,76,77,87,29,60
+S. Gnabry,23,175,75,Germany,German 1. Bundesliga,84,39500000,4,RW,90,82,75,86,43,69
+N. Fekir,25,173,75,France,Spain Primera Division,84,39000000,4,RM,78,82,81,88,33,77
+Luis Alberto,26,183,74,Spain,Italian Serie A,84,37500000,4,CM,71,76,84,85,49,59
+Alex Telles,26,181,71,Brazil,Portuguese Liga ZON SAGRES,84,33000000,3,LB,85,72,84,81,80,76
+S. de Vrij,27,189,78,Netherlands,Italian Serie A,84,31500000,2,CB,66,41,62,68,86,74
+Felipe Anderson,26,175,70,Brazil,English Premier League,84,36500000,4,RM,89,77,79,89,55,61
+Pepe,36,188,81,Portugal,Portuguese Liga ZON SAGRES,84,6500000,2,RCB,67,51,57,60,85,85
+João Moutinho,32,170,61,Portugal,English Premier League,84,23500000,3,LCM,56,75,85,82,71,67
+M. Hamšík,31,183,73,Slovakia,Chinese Super League,84,26500000,3,CAM,69,77,83,83,72,69
+Sokratis,31,186,85,Greece,English Premier League,84,23000000,2,RCB,72,51,52,60,84,83
+Lucas Leiva,32,179,78,Brazil,Italian Serie A,84,20500000,3,LDM,62,66,76,78,83,73
+M. Özil,30,180,76,Germany,English Premier League,84,29500000,4,CAM,70,72,86,84,24,56
+Javi Martínez,30,192,86,Spain,German 1. Bundesliga,84,25500000,2,SUB,48,55,69,63,86,83
+E. Džeko,33,193,80,Bosnia Herzegovina,Italian Serie A,84,19500000,2,ST,60,84,71,75,46,73
+G. Wijnaldum,28,175,69,Netherlands,English Premier League,84,31000000,4,LCM,77,73,78,84,76,78
+I. Perišić,30,186,80,Croatia,German 1. Bundesliga,84,29500000,4,SUB,84,80,78,82,62,77
+M. Mandžukić,33,190,85,Croatia,Italian Serie A,84,19500000,3,ST,68,80,71,75,65,86
+A. Vidal,32,180,75,Chile,Spain Primera Division,84,23500000,3,SUB,67,79,80,78,85,86
+J. Boateng,30,192,90,Germany,German 1. Bundesliga,84,25000000,2,SUB,66,50,72,65,84,82
+Azpilicueta,29,178,76,Spain,English Premier League,84,25500000,2,RB,70,55,77,73,85,76
+José Callejón,32,178,73,Spain,Italian Serie A,84,24000000,3,RM,89,78,75,83,47,64
+I. Gündoğan,28,180,80,Germany,English Premier League,84,31000000,4,SUB,66,74,84,84,72,71
+Paulinho,30,183,80,Brazil,Chinese Super League,84,29000000,4,LCM,72,81,77,80,78,85
+K. Walker,29,183,70,England,English Premier League,84,25500000,2,RB,91,63,76,77,81,81
+Canales,28,176,65,Spain,Spain Primera Division,84,31500000,4,RCM,78,79,83,81,51,66
+Douglas Costa,28,172,70,Brazil,Italian Serie A,84,31500000,5,SUB,94,73,79,91,43,61
+Pizzi,29,177,72,Portugal,Portuguese Liga ZON SAGRES,84,30500000,3,RM,77,77,84,81,63,68
+D. Tadić,30,181,76,Serbia,Holland Eredivisie,84,29500000,4,ST,68,80,84,85,41,71
+J. Iličić,31,190,79,Slovenia,Italian Serie A,84,28000000,4,RS,70,84,84,85,43,67
+R. Mahrez,28,179,67,Algeria,English Premier League,84,31500000,5,SUB,84,78,79,89,38,59
+E. Višća,29,172,63,Bosnia Herzegovina,Turkish Süper Lig,84,30500000,4,RM,88,79,79,83,47,64
+Felipe,30,190,83,Brazil,Spain Primera Division,84,25000000,2,LCB,64,41,57,60,84,87
+Fabián,23,189,70,Spain,Italian Serie A,83,36000000,4,LCM,65,78,78,83,74,69
+A. Romagnoli,24,188,78,Italy,Italian Serie A,83,32000000,2,LCB,63,40,55,66,85,79
+G. Lo Celso,23,177,68,Argentina,English Premier League,83,35000000,4,SUB,77,78,82,85,65,72
+T. Alexander-Arnold,20,180,69,England,English Premier League,83,32000000,3,RB,80,62,82,78,78,70
+L. Jović,21,182,85,Serbia,Spain Primera Division,83,36000000,3,SUB,77,82,68,81,29,74
+A. Milik,25,186,78,Poland,Italian Serie A,83,35000000,4,RS,69,85,64,76,39,74
+A. Martial,23,184,76,France,English Premier League,83,34500000,4,ST,89,81,72,86,41,71
+Anderson Talisca,25,190,80,Brazil,Chinese Super League,83,34500000,4,RW,77,82,80,81,57,72
+J. Tah,23,195,97,Germany,German 1. Bundesliga,83,31000000,2,RCB,71,27,59,57,83,81
+C. Tolisso,24,181,81,France,German 1. Bundesliga,83,34000000,3,RCM,69,77,79,78,76,79
+Gonçalo Guedes,22,179,68,Portugal,Spain Primera Division,83,34500000,4,LM,90,79,76,84,36,70
+N. Pépé,24,183,73,Ivory Coast,English Premier League,83,34500000,4,RM,91,81,75,85,33,67
+M. Akanji,23,187,91,Switzerland,German 1. Bundesliga,83,31000000,2,RCB,78,45,68,72,83,80
+M. Rashford,21,186,70,England,English Premier League,83,35000000,5,LM,92,82,73,84,45,77
+J. Stones,25,188,70,England,English Premier League,83,30000000,3,RCB,68,36,70,72,84,77
+A. Rabiot,24,192,80,France,Italian Serie A,83,33000000,3,LCM,73,74,79,80,77,80
+Grimaldo,23,171,69,Spain,Portuguese Liga ZON SAGRES,83,29500000,3,LB,85,63,79,84,77,71
+T. Werner,23,180,75,Germany,German 1. Bundesliga,83,34500000,3,LS,92,81,67,83,35,69
+T. Lemar,23,171,62,France,Spain Primera Division,83,34000000,4,LM,83,76,82,85,59,67
+D. Sánchez,23,187,79,Colombia,English Premier League,83,30500000,2,SUB,74,45,57,66,83,81
+Marco Asensio,23,182,76,Spain,Spain Primera Division,83,34000000,4,SUB,81,80,82,84,43,62
+L. Digne,25,178,74,France,English Premier League,83,28500000,3,LB,78,69,79,79,80,76
+J. Draxler,25,187,77,Germany,French Ligue 1,83,32500000,4,SUB,77,79,81,86,55,63
+Y. Carrasco,25,180,71,Belgium,Chinese Super League,83,32500000,4,LM,90,80,75,87,39,64
+Borja Iglesias,26,187,86,Spain,Spain Primera Division,83,32500000,3,ST,67,83,63,76,35,82
+W. Zaha,26,180,66,Ivory Coast,English Premier League,83,32000000,5,LS,91,76,72,88,27,74
+Paco Alcácer,25,175,72,Spain,German 1. Bundesliga,83,32000000,3,ST,79,84,68,80,36,63
+Morata,26,189,84,Spain,Spain Primera Division,83,32000000,3,LS,81,79,71,80,31,72
+S. Haller,25,190,82,France,English Premier League,83,32000000,3,ST,72,81,62,76,51,82
+William Carvalho,27,187,83,Portugal,Spain Primera Division,83,27500000,3,CDM,42,57,77,74,79,85
+F. Bernardeschi,25,185,77,Italy,Italian Serie A,83,31500000,5,SUB,81,75,81,87,60,66
+D. Djené,27,178,72,Togo,Spain Primera Division,83,27000000,2,RCB,72,37,61,61,83,79
+Oscar,27,181,71,Brazil,Chinese Super League,83,29500000,4,RCM,74,76,83,81,55,50
+Bartra,28,184,73,Spain,Spain Primera Division,83,25500000,3,RCB,73,61,73,72,82,74
+Pablo Sarabia,27,174,70,Spain,French Ligue 1,83,29500000,4,SUB,75,76,82,84,57,57
+Lucas Moura,26,174,70,Brazil,English Premier League,83,31000000,4,SUB,92,79,76,87,42,66
+F. Thauvin,26,179,70,France,French Ligue 1,83,30500000,4,RW,83,80,81,83,41,69
+Jorginho,27,180,67,Italy,English Premier League,83,29000000,3,CDM,55,63,84,81,70,73
+Iniesta,35,171,68,Spain,Japanese J. League Division 1,83,11000000,4,CAM,64,70,86,87,62,60
+V. Kompany,33,190,85,Belgium,Belgian Jupiler Pro League,83,12000000,2,LCB,50,53,65,64,84,79
+Raúl Albiol,33,190,82,Spain,Spain Primera Division,83,12000000,2,RCB,48,41,61,63,86,72
+F. Quagliarella,36,180,79,Italy,Italian Serie A,83,9500000,4,ST,69,89,75,80,30,65
+Falcao,33,177,72,Colombia,French Ligue 1,83,16500000,3,LS,65,82,69,77,43,72
+Miranda,34,186,78,Brazil,Chinese Super League,83,9500000,2,RCB,64,49,60,68,84,74
+C. Vela,30,177,77,Mexico,USA Major League Soccer,83,24500000,4,RW,80,82,78,84,31,67
+E. Garay,32,189,90,Argentina,Spain Primera Division,83,16500000,2,RCB,43,60,67,62,82,81
+R. Nainggolan,31,176,77,Belgium,Italian Serie A,83,22500000,3,CAM,72,79,78,83,83,82
+E. Banega,31,174,71,Argentina,Spain Primera Division,83,19500000,4,RCM,61,73,84,82,77,70
+Diego Costa,30,188,86,Spain,Spain Primera Division,83,25000000,2,SUB,73,82,64,75,49,85
+S. Khedira,32,189,90,Germany,Italian Serie A,83,19500000,2,RES,51,74,78,77,80,80
+David Luiz,32,189,86,Brazil,English Premier League,83,16500000,3,LCB,61,65,74,70,82,77
+M. Kruse,31,180,76,Germany,Turkish Süper Lig,83,23500000,4,CAM,66,83,83,83,45,70
+J. Henderson,29,182,80,England,English Premier League,83,22000000,3,RCM,64,70,83,77,78,80
+G. Sigurðsson,29,186,77,Iceland,English Premier League,83,25500000,3,CAM,56,81,84,80,57,69
+A. Ramsey,28,183,76,Wales,Italian Serie A,83,25500000,3,SUB,68,77,79,80,68,74
+Illarramendi,29,179,75,Spain,Spain Primera Division,83,22000000,3,RCM,54,71,80,79,80,71
+D. Blind,29,180,72,Netherlands,Holland Eredivisie,83,22000000,3,LDM,54,65,80,77,82,74
+N. Otamendi,31,183,81,Argentina,English Premier League,83,19000000,2,SUB,56,57,63,59,83,78
+J. Cuadrado,31,179,72,Colombia,Italian Serie A,83,22500000,5,SUB,91,72,77,88,66,67
+I. Gueye,29,174,66,Senegal,French Ligue 1,83,22000000,3,SUB,73,59,70,78,85,78
+K. Kampl,28,178,67,Slovenia,German 1. Bundesliga,83,25500000,3,CM,76,67,80,86,63,62
+Rodrigo,28,182,77,Spain,Spain Primera Division,83,27000000,4,LS,90,80,74,82,44,70
+C. Aránguiz,30,171,70,Chile,German 1. Bundesliga,83,24000000,3,LCM,63,72,82,81,74,73
+W. Ben Yedder,28,170,68,France,French Ligue 1,83,27000000,4,RS,84,82,77,85,39,61
+F. Acerbi,31,192,88,Italy,Italian Serie A,83,19000000,3,CB,56,50,61,63,86,82
+Danilo Pereira,27,188,83,Portugal,Portuguese Liga ZON SAGRES,83,24000000,3,LCM,65,63,72,74,82,85
+A. Kramarić,28,177,73,Croatia,German 1. Bundesliga,83,27000000,4,LS,73,85,73,85,30,71
+Louri Beretta,27,188,83,Brazil,Campeonato Brasileiro Série A,83,27500000,4,ST,81,84,62,72,33,75
+Josué Chiamulera,27,185,80,Brazil,Campeonato Brasileiro Série A,83,23500000,2,RCB,80,43,56,64,85,77
+Ronaldo Cabrais,27,177,75,Brazil,Campeonato Brasileiro Série A,83,27000000,4,RM,87,77,83,84,35,72
+Oyarzabal,22,181,78,Spain,Spain Primera Division,82,31000000,3,LW,75,82,79,83,39,61
+L. Bailey,21,178,79,Jamaica,German 1. Bundesliga,82,30500000,4,LM,91,77,75,84,33,64
+Gabriel Jesus,22,175,73,Brazil,English Premier League,82,31000000,4,SUB,85,80,72,86,39,71
+M. Kovačić,25,176,78,Croatia,English Premier League,82,29000000,4,SUB,76,68,81,86,67,70
+A. Belotti,25,181,72,Italy,Italian Serie A,82,30000000,3,ST,77,81,57,77,41,82
+N. Keïta,24,172,64,Guinea,English Premier League,82,29000000,4,SUB,71,73,76,88,65,66
+L. Torreira,23,168,64,Uruguay,English Premier League,82,27000000,3,RDM,75,67,77,80,81,75
+Rúben Neves,22,180,80,Portugal,English Premier League,82,29000000,3,CM,62,74,83,76,70,73
+P. Kimpembe,23,189,80,France,French Ligue 1,82,26500000,2,SUB,75,39,67,67,81,83
+S. Bergwijn,21,178,78,Netherlands,Holland Eredivisie,82,29500000,4,CAM,89,75,76,85,40,73
+A. Onana,23,187,93,Cameroon,Holland Eredivisie,82,22000000,1,GK,,,,,,
+Nélson Semedo,25,177,67,Portugal,Spain Primera Division,82,26000000,4,RB,92,57,69,81,77,75
+A. Areola,26,195,94,France,French Ligue 1,82,21000000,1,GK,,,,,,
+M. Perin,26,188,77,Italy,Italian Serie A,82,21000000,1,SUB,,,,,,
+D. Rugani,24,190,84,Italy,Italian Serie A,82,26000000,2,RES,64,39,55,64,85,74
+A. Correa,24,171,68,Argentina,Spain Primera Division,82,29000000,4,SUB,83,80,75,86,54,65
+Iñaki Williams,25,186,79,Spain,Spain Primera Division,82,29000000,4,RW,94,80,72,80,41,82
+H. Lozano,23,175,70,Mexico,Holland Eredivisie,82,29000000,4,RW,93,76,73,83,41,66
+Gelson Martins,24,173,74,Portugal,French Ligue 1,82,29000000,5,RM,95,71,74,86,47,61
+B. Lecomte,28,186,78,France,French Ligue 1,82,20000000,1,GK,,,,,,
+T. Partey,26,185,77,Ghana,Spain Primera Division,82,27000000,3,RCM,73,72,77,77,79,84
+K. Demirbay,25,182,72,Germany,German 1. Bundesliga,82,27500000,4,LF,67,74,82,84,64,70
+J. Matip,27,194,90,Cameroon,English Premier League,82,23000000,2,SUB,61,46,68,67,83,76
+Suso,25,176,70,Spain,Italian Serie A,82,27000000,4,RS,78,76,83,87,33,53
+S. Savić,28,187,79,Montenegro,Spain Primera Division,82,22500000,2,SUB,55,35,54,56,84,72
+A. Rüdiger,26,190,85,Germany,English Premier League,82,24000000,2,SUB,72,43,67,63,82,78
+Pacheco,27,186,81,Spain,Spain Primera Division,82,18500000,1,GK,,,,,,
+Ricardo Pereira,25,175,70,Portugal,English Premier League,82,23500000,3,RB,86,64,77,81,79,73
+N. Tagliafico,26,172,65,Argentina,Holland Eredivisie,82,23500000,3,LB,81,57,72,76,80,81
+David Soria,26,192,85,Spain,Spain Primera Division,82,19500000,1,GK,,,,,,
+Sergio Asenjo,30,189,87,Spain,Spain Primera Division,82,17000000,1,GK,,,,,,
+Muniain,26,170,66,Spain,Spain Primera Division,82,26000000,4,LW,80,72,77,87,51,58
+M. Götze,27,176,75,Germany,German 1. Bundesliga,82,26000000,4,SUB,71,78,85,86,56,70
+T. Delaney,27,182,79,Denmark,German 1. Bundesliga,82,23000000,3,SUB,77,73,74,75,83,82
+O. Baumann,29,187,82,Germany,German 1. Bundesliga,82,18000000,1,GK,,,,,,
+Willian José,27,189,93,Brazil,Spain Primera Division,82,26000000,4,ST,69,82,68,75,40,81
+Sergi Roberto,27,178,68,Spain,Spain Primera Division,82,22000000,4,SUB,78,63,81,78,77,73
+N. Schulz,26,181,83,Germany,German 1. Bundesliga,82,22500000,3,LB,90,52,76,80,74,76
+K. Volland,26,179,83,Germany,German 1. Bundesliga,82,26500000,3,ST,76,84,79,79,41,83
+Nacho Fernández,29,180,76,Spain,Spain Primera Division,82,21000000,2,SUB,74,37,66,64,81,79
+Gabriel Paulista,28,187,79,Brazil,Spain Primera Division,82,21500000,2,LCB,71,49,69,65,83,81
+J. Roussillon,26,175,80,France,German 1. Bundesliga,82,22500000,3,LM,89,65,76,80,78,78
+H. Maguire,26,194,100,England,English Premier League,82,23000000,2,LCB,50,53,64,69,81,84
